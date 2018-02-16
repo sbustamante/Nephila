@@ -1,0 +1,6 @@
+nose
+sphinx
+numpy
+scipy
+matplotlib
+h5py
